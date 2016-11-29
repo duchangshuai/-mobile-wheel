@@ -1,1 +1,1 @@
-# -移动端轮播图fork地址
+https://duchangshuai.github.io/shouji/index.html
